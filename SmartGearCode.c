@@ -1,5 +1,3 @@
-
-
 //#include <SoftwareSerial.h>    
 //SoftwareSerial esp(P3_4, P3_5);   //Pin 6 and 7 act as RX and TX. Connect them to TX and RX of ESP8266   
    
